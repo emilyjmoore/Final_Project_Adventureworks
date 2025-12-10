@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/emilymoore/Downloads/DS-2002-main/04-PySpark/spark-warehouse/adventureworks_dlh.db/fact_sales_order_vw/silver/part-00000-ed660ae2-cb3e-4781-a2df-0738d6d5c433-c000.snappy.parquet","size":1354,"isDir":false,"modificationTime":1765325864735,"blockReplication":1,"blockSize":33554432,"action":"add"}
