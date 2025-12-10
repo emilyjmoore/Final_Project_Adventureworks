@@ -1,10 +1,8 @@
-# AdventureWorks Data Lakehouse – Batch + Streaming Integration
+# AdventureWorks Data Lakehouse
 
 This project implements a complete **Dimensional Data Lakehouse** in Databricks using batch, incremental, and real-time streaming ingestion. It integrates data from **MySQL**, **MongoDB**, and **DBFS files**, and models it using a dimensional schema with a Bronze → Silver → Gold architecture.
 
 The goal is to enable sales analytics across customers, employees, territories, and products using both static and real-time data.
-
----
 
 ## Dimensional Model
 
@@ -28,9 +26,7 @@ Contains:
 - Order metrics (quantity, unit_price, tax, discount, shipping_fee, etc.)  
 - Records ingested from streaming JSON files using Autoloader  
 
----
-
-## Medallion Architecture (Bronze → Silver → Gold)
+## Medallion Architecture
 
 ### **Bronze Layer**
 - Raw JSON files ingested using **Spark Autoloader**
@@ -48,9 +44,7 @@ Contains:
 - Aggregations available for BI and reporting  
 - Supports customer, product, and time-based analysis  
 
----
-
-## Functional Requirements – How This Project Meets Them
+## Functional Requirements
 
 ### **1. Batch Execution**
 - Loads static dimension tables from:
