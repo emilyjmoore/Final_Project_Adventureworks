@@ -75,3 +75,13 @@ Contains:
 
 ### **4. Business Value Demonstration**
 Example SQL query executed against the Gold layer:
+```sql 
+SELECT 
+    c.customer_key,
+    p.product_key,
+    SUM(f.quantity * f.unit_price) AS total_sales
+FROM fact_sales_gold f
+JOIN dim_customer c ON f.customer_key = c.customer_key
+JOIN dim_product p ON f.product_key = p.product_key
+GROUP BY c.customer_key, p.product_key
+ORDER BY total_sales DESC;
