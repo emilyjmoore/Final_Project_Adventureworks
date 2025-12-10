@@ -1,0 +1,7002 @@
+[
+	{
+		"CustomerID" : 1,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000001",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 2,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000002",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 3,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000003",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 4,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000004",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 5,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000005",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 6,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000006",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 7,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000007",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 8,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000008",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 9,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000009",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 10,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000010",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000011",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 12,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000012",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 13,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000013",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 14,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000014",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 15,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000015",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 16,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000016",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 17,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000017",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 18,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000018",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 19,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000019",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 20,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000020",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 21,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000021",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 22,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000022",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 23,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000023",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 24,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000024",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 25,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000025",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 26,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000026",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 27,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000027",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 28,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000028",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 29,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000029",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 30,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000030",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 31,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000031",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 32,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000032",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 33,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000033",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 34,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000034",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 35,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000035",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 36,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000036",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 37,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000037",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 38,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000038",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 39,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000039",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 40,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000040",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 41,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000041",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 42,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000042",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 43,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000043",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 44,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000044",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 45,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000045",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 46,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000046",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 47,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000047",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 48,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000048",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 49,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000049",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 50,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000050",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 51,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000051",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 52,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000052",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 53,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000053",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 54,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000054",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 55,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000055",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 56,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000056",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 57,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000057",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 58,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000058",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 59,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000059",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 60,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000060",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 61,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000061",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 62,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000062",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 63,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000063",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 64,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000064",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 65,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000065",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 66,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000066",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 67,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000067",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 68,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000068",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 69,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000069",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 70,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000070",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 71,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000071",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 72,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000072",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 73,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000073",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 74,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000074",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 75,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000075",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 76,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000076",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 77,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000077",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 78,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000078",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 79,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000079",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 80,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000080",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 81,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000081",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 82,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000082",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 83,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000083",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 84,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000084",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 85,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000085",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 86,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000086",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 87,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000087",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 88,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000088",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 89,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000089",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 90,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000090",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 91,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000091",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 92,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000092",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 93,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000093",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 94,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000094",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 95,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000095",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 96,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000096",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 97,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000097",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 98,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000098",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 99,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000099",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 100,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000100",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 101,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000101",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 102,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000102",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 103,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000103",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 104,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000104",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 105,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000105",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 106,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000106",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 107,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000107",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 108,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000108",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 109,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000109",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 110,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000110",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 111,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000111",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 112,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000112",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 113,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000113",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 114,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000114",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 115,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000115",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 116,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000116",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 117,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000117",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 118,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000118",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 119,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000119",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 120,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000120",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 121,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000121",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 122,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000122",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 123,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000123",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 124,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000124",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 125,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000125",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 126,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000126",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 127,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000127",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 128,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000128",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 129,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000129",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 130,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000130",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 131,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000131",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 132,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000132",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 133,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000133",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 134,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000134",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 135,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000135",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 136,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000136",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 137,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000137",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 138,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000138",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 139,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000139",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 140,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000140",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 141,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000141",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 142,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000142",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 143,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000143",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 144,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000144",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 145,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000145",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 146,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000146",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 147,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000147",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 148,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000148",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 149,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000149",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 150,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000150",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 151,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000151",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 152,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000152",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 153,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000153",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 154,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000154",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 155,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000155",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 156,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000156",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 157,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000157",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 158,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000158",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 159,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000159",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 160,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000160",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 161,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000161",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 162,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000162",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 163,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000163",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 164,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000164",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 165,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000165",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 166,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000166",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 167,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000167",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 168,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000168",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 169,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000169",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 170,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000170",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 171,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000171",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 172,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000172",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 173,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000173",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 174,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000174",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 175,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000175",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 176,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000176",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 177,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000177",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 178,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000178",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 179,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000179",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 180,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000180",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 181,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000181",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 182,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000182",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 183,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000183",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 184,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000184",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 185,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000185",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 186,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000186",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 187,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000187",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 188,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000188",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 189,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000189",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 190,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000190",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 191,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000191",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 192,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000192",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 193,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000193",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 194,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000194",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 195,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000195",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 196,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000196",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 197,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000197",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 198,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000198",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 199,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000199",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 200,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000200",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 201,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000201",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 202,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000202",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 203,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000203",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 204,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000204",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 205,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000205",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 206,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000206",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 207,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000207",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 208,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000208",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 209,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000209",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 210,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000210",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 211,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000211",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 212,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000212",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 213,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000213",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 214,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000214",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 215,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000215",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 216,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000216",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 217,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000217",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 218,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000218",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 219,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000219",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 220,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000220",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 221,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000221",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 222,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000222",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 223,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000223",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 224,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000224",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 225,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000225",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 226,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000226",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 227,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000227",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 228,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000228",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 229,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000229",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 230,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000230",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 231,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000231",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 232,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000232",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 233,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000233",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 234,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000234",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 235,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000235",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 236,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000236",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 237,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000237",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 238,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000238",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 239,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000239",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 240,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000240",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 241,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000241",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 242,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000242",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 243,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000243",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 244,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000244",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 245,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000245",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 246,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000246",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 247,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000247",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 248,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000248",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 249,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000249",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 250,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000250",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 251,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000251",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 252,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000252",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 253,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000253",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 254,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000254",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 255,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000255",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 256,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000256",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 257,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000257",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 258,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000258",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 259,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000259",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 260,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000260",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 261,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000261",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 262,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000262",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 263,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000263",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 264,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000264",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 265,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000265",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 266,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000266",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 267,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000267",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 268,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000268",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 269,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000269",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 270,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000270",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 271,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000271",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 272,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000272",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 273,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000273",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 274,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000274",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 275,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000275",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 276,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000276",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 277,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000277",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 278,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000278",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 279,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000279",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 280,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000280",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 281,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000281",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 282,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000282",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 283,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000283",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 284,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000284",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 285,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000285",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 286,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000286",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 287,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000287",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 288,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000288",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 289,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000289",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 290,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000290",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 291,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000291",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 292,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000292",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 293,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000293",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 294,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000294",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 295,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000295",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 296,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000296",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 297,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000297",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 298,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000298",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 299,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000299",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 300,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000300",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 301,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000301",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 302,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000302",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 303,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000303",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 304,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000304",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 305,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000305",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 306,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000306",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 307,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000307",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 308,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000308",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 309,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000309",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 310,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000310",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 311,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000311",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 312,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000312",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 313,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000313",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 314,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000314",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 315,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000315",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 316,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000316",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 317,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000317",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 318,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000318",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 319,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000319",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 320,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000320",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 321,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000321",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 322,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000322",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 323,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000323",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 324,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000324",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 325,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000325",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 326,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000326",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 327,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000327",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 328,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000328",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 329,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000329",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 330,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000330",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 331,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000331",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 332,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000332",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 333,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000333",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 334,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000334",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 335,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000335",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 336,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000336",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 337,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000337",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 338,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000338",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 339,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000339",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 340,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000340",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 341,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000341",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 342,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000342",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 343,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000343",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 344,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000344",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 345,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000345",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 346,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000346",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 347,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000347",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 348,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000348",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 349,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000349",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 350,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000350",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 351,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000351",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 352,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000352",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 353,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000353",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 354,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000354",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 355,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000355",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 356,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000356",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 357,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000357",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 358,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000358",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 359,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000359",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 360,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000360",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 361,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000361",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 362,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000362",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 363,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000363",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 364,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000364",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 365,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000365",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 366,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000366",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 367,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000367",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 368,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000368",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 369,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000369",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 370,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000370",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 371,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000371",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 372,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000372",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 373,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000373",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 374,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000374",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 375,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000375",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 376,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000376",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 377,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000377",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 378,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000378",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 379,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000379",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 380,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000380",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 381,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000381",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 382,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000382",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 383,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000383",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 384,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000384",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 385,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000385",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 386,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000386",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 387,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000387",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 388,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000388",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 389,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000389",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 390,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000390",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 391,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000391",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 392,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000392",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 393,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000393",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 394,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000394",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 395,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000395",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 396,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000396",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 397,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000397",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 398,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000398",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 399,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000399",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 400,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000400",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 401,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000401",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 402,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000402",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 403,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000403",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 404,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000404",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 405,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000405",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 406,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000406",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 407,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000407",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 408,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000408",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 409,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000409",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 410,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000410",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 411,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000411",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 412,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000412",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 413,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000413",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 414,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000414",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 415,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000415",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 416,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000416",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 417,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000417",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 418,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000418",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 419,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000419",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 420,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000420",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 421,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000421",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 422,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000422",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 423,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000423",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 424,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000424",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 425,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000425",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 426,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000426",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 427,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000427",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 428,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000428",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 429,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000429",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 430,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000430",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 431,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000431",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 432,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000432",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 433,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000433",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 434,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000434",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 435,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000435",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 436,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000436",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 437,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000437",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 438,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000438",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 439,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000439",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 440,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000440",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 441,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000441",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 442,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000442",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 443,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000443",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 444,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000444",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 445,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000445",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 446,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000446",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 447,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000447",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 448,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000448",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 449,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000449",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 450,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000450",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 451,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000451",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 452,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000452",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 453,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000453",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 454,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000454",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 455,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000455",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 456,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000456",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 457,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000457",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 458,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000458",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 459,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000459",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 460,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000460",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 461,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000461",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 462,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000462",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 463,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000463",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 464,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000464",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 465,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000465",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 466,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000466",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 467,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000467",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 468,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000468",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 469,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000469",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 470,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000470",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 471,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000471",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 472,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000472",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 473,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000473",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 474,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000474",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 475,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000475",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 476,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000476",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 477,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000477",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 478,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000478",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 479,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000479",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 480,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000480",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 481,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000481",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 482,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000482",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 483,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000483",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 484,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000484",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 485,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000485",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 486,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000486",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 487,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000487",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 488,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000488",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 489,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000489",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 490,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000490",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 491,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000491",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 492,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000492",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 493,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000493",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 494,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000494",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 495,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000495",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 496,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000496",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 497,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000497",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 498,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000498",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 499,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000499",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 500,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000500",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 501,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000501",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 502,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000502",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 503,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000503",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 504,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000504",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 505,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000505",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 506,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000506",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 507,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000507",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 508,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000508",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 509,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000509",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 510,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000510",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 511,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000511",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 512,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000512",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 513,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000513",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 514,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000514",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 515,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000515",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 516,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000516",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 517,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000517",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 518,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000518",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 519,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000519",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 520,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000520",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 521,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000521",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 522,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000522",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 523,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000523",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 524,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000524",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 525,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000525",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 526,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000526",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 527,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000527",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 528,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000528",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 529,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000529",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 530,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000530",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 531,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000531",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 532,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000532",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 533,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000533",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 534,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000534",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 535,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000535",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 536,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000536",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 537,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000537",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 538,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000538",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 539,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000539",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 540,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000540",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 541,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000541",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 542,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000542",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 543,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000543",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 544,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000544",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 545,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000545",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 546,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000546",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 547,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000547",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 548,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000548",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 549,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000549",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 550,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000550",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 551,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000551",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 552,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000552",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 553,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000553",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 554,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000554",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 555,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000555",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 556,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000556",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 557,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000557",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 558,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000558",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 559,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000559",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 560,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000560",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 561,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000561",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 562,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000562",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 563,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000563",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 564,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000564",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 565,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000565",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 566,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000566",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 567,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000567",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 568,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000568",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 569,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000569",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 570,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000570",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 571,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000571",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 572,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000572",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 573,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000573",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 574,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000574",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 575,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000575",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 576,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000576",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 577,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000577",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 578,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000578",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 579,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000579",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 580,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000580",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 581,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000581",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 582,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000582",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 583,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000583",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 584,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000584",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 585,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000585",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 586,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000586",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 587,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000587",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 588,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000588",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 589,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000589",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 590,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000590",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 591,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000591",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 592,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000592",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 593,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000593",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 594,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000594",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 595,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000595",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 596,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000596",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 597,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000597",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 598,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000598",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 599,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000599",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 600,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000600",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 601,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000601",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 602,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000602",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 603,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000603",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 604,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000604",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 605,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000605",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 606,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000606",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 607,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000607",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 608,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000608",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 609,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000609",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 610,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000610",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 611,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000611",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 612,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000612",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 613,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000613",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 614,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000614",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 615,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000615",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 616,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000616",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 617,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000617",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 618,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000618",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 619,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000619",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 620,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000620",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 621,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000621",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 622,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000622",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 623,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000623",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 624,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000624",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 625,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000625",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 626,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000626",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 627,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000627",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 628,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000628",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 629,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000629",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 630,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000630",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 631,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000631",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 632,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000632",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 633,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000633",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 634,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000634",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 635,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000635",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 636,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000636",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 637,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000637",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 638,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000638",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 639,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000639",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 640,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000640",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 641,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000641",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 642,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000642",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 643,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000643",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 644,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000644",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 645,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000645",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 646,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000646",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 647,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000647",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 648,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000648",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 649,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000649",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 650,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000650",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 651,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000651",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 652,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000652",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 653,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000653",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 654,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000654",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 655,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000655",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 656,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000656",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 657,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000657",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 658,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000658",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 659,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000659",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 660,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000660",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 661,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000661",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 662,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000662",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 663,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000663",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 664,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000664",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 665,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000665",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 666,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000666",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 667,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000667",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 668,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000668",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 669,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000669",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 670,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000670",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 671,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000671",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 672,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000672",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 673,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000673",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 674,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00000674",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 675,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000675",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 676,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000676",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 677,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000677",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 678,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000678",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 679,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000679",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 680,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000680",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 681,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000681",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 682,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000682",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 683,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000683",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 684,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000684",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 685,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000685",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 686,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00000686",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 687,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00000687",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 688,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00000688",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 689,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00000689",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 690,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000690",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 691,
+		"TerritoryID" : 2,
+		"AccountNumber" : "AW00000691",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 692,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000692",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 693,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000693",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 694,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000694",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 695,
+		"TerritoryID" : 3,
+		"AccountNumber" : "AW00000695",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 696,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000696",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 697,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000697",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 698,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00000698",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 699,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000699",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 700,
+		"TerritoryID" : 5,
+		"AccountNumber" : "AW00000700",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 701,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00000701",
+		"CustomerType" : "S",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11000,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011000",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11001,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011001",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11002,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011002",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11003,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011003",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11004,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011004",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11005,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011005",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11006,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011006",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11007,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011007",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11008,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011008",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11009,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011009",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11010,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011010",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11011,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011011",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11012,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011012",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11013,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011013",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11014,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011014",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11015,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011015",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11016,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011016",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11017,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011017",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11018,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011018",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11019,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011019",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11020,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011020",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11021,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011021",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11022,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011022",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11023,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011023",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11024,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011024",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11025,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011025",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11026,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011026",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11027,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011027",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11028,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011028",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11029,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011029",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11030,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011030",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11031,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011031",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11032,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011032",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11033,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011033",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11034,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011034",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11035,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011035",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11036,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011036",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11037,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011037",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11038,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011038",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11039,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011039",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11040,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011040",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11041,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011041",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11042,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011042",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11043,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011043",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11044,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011044",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11045,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011045",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11046,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011046",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11047,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011047",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11048,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011048",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11049,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011049",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11050,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011050",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11051,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011051",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11052,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011052",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11053,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011053",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11054,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011054",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11055,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011055",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11056,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011056",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11057,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011057",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11058,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011058",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11059,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011059",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11060,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011060",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11061,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011061",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11062,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011062",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11063,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011063",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11064,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011064",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11065,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011065",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11066,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011066",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11067,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011067",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11068,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011068",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11069,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011069",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11070,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011070",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11071,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011071",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11072,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011072",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11073,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011073",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11074,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011074",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11075,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011075",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11076,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011076",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11077,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011077",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11078,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011078",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11079,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011079",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11080,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011080",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11081,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011081",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11082,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011082",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11083,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011083",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11084,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011084",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11085,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011085",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11086,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011086",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11087,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011087",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11088,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011088",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11089,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011089",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11090,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011090",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11091,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011091",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11092,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011092",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11093,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011093",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11094,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011094",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11095,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011095",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11096,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011096",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11097,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011097",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11098,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011098",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11099,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011099",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11100,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011100",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11101,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011101",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11102,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011102",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11103,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011103",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11104,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011104",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11105,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011105",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11106,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011106",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11107,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011107",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11108,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011108",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11109,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011109",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11110,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011110",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11111,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011111",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11112,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011112",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11113,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011113",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11114,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011114",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11115,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011115",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11116,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011116",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11117,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011117",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11118,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011118",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11119,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011119",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11120,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011120",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11121,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011121",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11122,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011122",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11123,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011123",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11124,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011124",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11125,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011125",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11126,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011126",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11127,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011127",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11128,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011128",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11129,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011129",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11130,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011130",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11131,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011131",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11132,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011132",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11133,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011133",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11134,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011134",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11135,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011135",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11136,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011136",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11137,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011137",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11138,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011138",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11139,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011139",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11140,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011140",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11141,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011141",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11142,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011142",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11143,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011143",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11144,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011144",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11145,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011145",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11146,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011146",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11147,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011147",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11148,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011148",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11149,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011149",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11150,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011150",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11151,
+		"TerritoryID" : 9,
+		"AccountNumber" : "AW00011151",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11152,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011152",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11153,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011153",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11154,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011154",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11155,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011155",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11156,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011156",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11157,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011157",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11158,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011158",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11159,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011159",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11160,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011160",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11161,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011161",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11162,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011162",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11163,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011163",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11164,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011164",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11165,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011165",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11166,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011166",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11167,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011167",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11168,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011168",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11169,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011169",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11170,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011170",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11171,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011171",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11172,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011172",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11173,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011173",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11174,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011174",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11175,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011175",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11176,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011176",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11177,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011177",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11178,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011178",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11179,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011179",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11180,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011180",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11181,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011181",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11182,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011182",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11183,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011183",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11184,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011184",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11185,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011185",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11186,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011186",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11187,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011187",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11188,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011188",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11189,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011189",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11190,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011190",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11191,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011191",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11192,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011192",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11193,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011193",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11194,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011194",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11195,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011195",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11196,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011196",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11197,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011197",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11198,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011198",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11199,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011199",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11200,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011200",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11201,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011201",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11202,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011202",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11203,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011203",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11204,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011204",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11205,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011205",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11206,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011206",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11207,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011207",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11208,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011208",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11209,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011209",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11210,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011210",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11211,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011211",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11212,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011212",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11213,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011213",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11214,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011214",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11215,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011215",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11216,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011216",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11217,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011217",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11218,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011218",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11219,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011219",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11220,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011220",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11221,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011221",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11222,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011222",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11223,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011223",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11224,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011224",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11225,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011225",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11226,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011226",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11227,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011227",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11228,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011228",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11229,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011229",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11230,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011230",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11231,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011231",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11232,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011232",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11233,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011233",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11234,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011234",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11235,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011235",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11236,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011236",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11237,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00011237",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11238,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011238",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11239,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011239",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11240,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011240",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11241,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00011241",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11242,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00011242",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11243,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011243",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11244,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011244",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11245,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00011245",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11246,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00011246",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11247,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011247",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11248,
+		"TerritoryID" : 7,
+		"AccountNumber" : "AW00011248",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11249,
+		"TerritoryID" : 8,
+		"AccountNumber" : "AW00011249",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11250,
+		"TerritoryID" : 10,
+		"AccountNumber" : "AW00011250",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11251,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011251",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11252,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011252",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11253,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011253",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11254,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011254",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11255,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011255",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11256,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011256",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11257,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011257",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11258,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011258",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11259,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011259",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11260,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011260",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11261,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011261",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11262,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011262",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11263,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011263",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11264,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011264",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11265,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011265",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11266,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011266",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11267,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011267",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11268,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011268",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11269,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011269",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11270,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011270",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11271,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011271",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11272,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011272",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11273,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011273",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11274,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011274",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11275,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011275",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11276,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011276",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11277,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011277",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11278,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011278",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11279,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011279",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11280,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011280",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11281,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011281",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11282,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011282",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11283,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011283",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11284,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011284",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11285,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011285",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11286,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011286",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11287,
+		"TerritoryID" : 6,
+		"AccountNumber" : "AW00011287",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11288,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011288",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11289,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011289",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11290,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011290",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11291,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011291",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11292,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011292",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11293,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011293",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11294,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011294",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11295,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011295",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11296,
+		"TerritoryID" : 1,
+		"AccountNumber" : "AW00011296",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11297,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011297",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	},
+	{
+		"CustomerID" : 11298,
+		"TerritoryID" : 4,
+		"AccountNumber" : "AW00011298",
+		"CustomerType" : "I",
+		"ModifiedDate" : "2004-10-13 11:15:07"
+	}
+]
